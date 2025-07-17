@@ -1,6 +1,6 @@
 # Configure the AWS Provider
 provider "aws" {
-  profile = "saroj-personal"
+  profile = "xyz"
   region  = "us-east-1"
 }
 
